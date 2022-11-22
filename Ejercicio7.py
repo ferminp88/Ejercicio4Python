@@ -18,7 +18,7 @@ class Alumno:
 
 alumno=Alumno()
 
-alumno.initialize("Carlos",3)
+alumno.initialize("Carlos",4)
 
 alumno.imprimir()
 alumno.resultado()
